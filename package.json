@@ -1,0 +1,26 @@
+{
+"name": "ertex-ndeavor",
+"version": "1.0.0",
+"description": "Transform the way you work with our project management solution engineered for optimal performance.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/psrideoutr/VertexEndeavor.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "psrideoutr",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
